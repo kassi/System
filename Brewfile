@@ -24,6 +24,10 @@ install mscgen
 install node phantomjs
 install swi-prolog
 
+# Python
+install python
+# pip install bitbucket-cli
+
 # R
 brew tap homebrew/science
 brew install gfortran r
