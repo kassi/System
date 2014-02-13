@@ -31,3 +31,6 @@ install python
 # R
 brew tap homebrew/science
 brew install gfortran r
+
+# TODO: Check this for installing GUI applications
+# install homebrew-cask
